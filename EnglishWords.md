@@ -25,11 +25,11 @@
   a serious competition between two teams  
   
 * region(n)  
-   in a/the region  
-   the asia pacific region  
+  in a/the region  
+  the asia pacific region  
   
 * representitive(n)  
-  represet  
+  represent  
   customer representitive  
   
 * retailer(n)  
@@ -56,3 +56,59 @@
 * coupon(n)  
   30% dicount coupons  
   
+* advertise(v)
+  advertisment, ad
+  The movie is advertised on Youtube.
+
+* base(v)
+  base on
+  be based on
+  basic
+
+* brand(n)
+  brand-name products
+
+* conduct(v)
+  conduct a test
+
+* ensure(v)
+  cf. insure, insurance
+  cf. assure, e.g. I assure you that ...
+  
+* establish(v)
+  establish sth of doing
+  establist a bond between two people
+
+* expectation(n)
+  reached my expectations
+  exceeded my expectations
+
+* extensive(adj)
+  extend(v)
+  read extensively
+
+* forecast(v)
+  predict
+  weather forcast
+
+* impress(v)
+  impressive(adj)
+  sth impressed me with
+  i am impressed by sth...
+
+* indicate(v)   
+  indicated that ...
+
+* publicity(n)
+  to attract publicity
+  to recieve publicity
+
+* inquiry(n)
+  question
+
+* support(n)
+  support by
+
+* market(n)
+  labor market, gold market ...
+
