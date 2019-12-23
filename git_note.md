@@ -44,3 +44,15 @@ git push -u origin master
 git clone <網址>
 
 ```
+
+## 建立分支
+
+1. 建立分支但維持在目前的分支  
+   git branch [name]
+
+2. 建立並切換至新的分支  
+   git checkout -b [name]
+
+## 切換分支
+
+1. git checkout [name]
