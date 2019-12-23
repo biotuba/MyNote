@@ -45,7 +45,8 @@ git clone <網址>
 
 ```
 
-## 建立分支
+## 分支
+### 建立分支
 
 1. 建立分支但維持在目前的分支  
    git branch [name]
@@ -53,6 +54,16 @@ git clone <網址>
 2. 建立並切換至新的分支  
    git checkout -b [name]
 
-## 切換分支
+### 切換分支
 
 1. git checkout [name]
+
+### 合併分支
+
+
+## 切換版本
+
+1. 包含資料夾
+   git reset --hard head@{n}: 切換到前n個版本
+
+
