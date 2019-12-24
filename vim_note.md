@@ -20,3 +20,26 @@
 dir *.md
 find "[ ]" *.md
 
+# Vim Script
+
+## 字串
+
+1. 字串連接 .
+   "abc"."def"
+
+## Function
+
+1. 命名一定要大寫開頭
+2. 語法
+
+```vim
+function! Foo()
+    " 命令
+endfunction
+
+function! Foo2( para )
+    a:para
+endfunction
+```
+
+3. 
