@@ -1,4 +1,4 @@
-# 剪刀、石頭、布 小遊戲
+# 實作一、剪刀、石頭、布 小遊戲
 import random as rd
 
 plyrA = int(input("請出拳 0: 剪刀、1: 石頭、2: 布"))
