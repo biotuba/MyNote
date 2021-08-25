@@ -41,20 +41,22 @@ isPass = False
 iInput = 0
 
 while isPass == False:
-    userPwd = getpass.getpass()
+    userPwd = getpass.getpass() 
     # print(userPwd)
 
     isPwdLenGt12 = len(userPwd) >= 12
+    isPass = isPwdLenGt12 and isPwdRuleOK(userPwd)
 
-    if isPwdLenGt12 and isPwdRuleOK(userPwd):
+    if isPass:
         print('password 符合規則')
-        isPass = True
+        break
     else:
         print('password 不符合規則')
         print(userPwd)
         iInput += 1
-        if iInput == 3:
-            iInput = 0
-            print('規則不符 3 次以上暫停輸入 5 秒鐘。')
-            time.sleep(5)
+
+    if iInput == 3:
+        iInput = 0
+        print('規則不符 3 次以上暫停輸入 5 秒鐘。')
+        time.sleep(5)
             
