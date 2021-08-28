@@ -1,7 +1,5 @@
 # How to take Smart Notes
 
-[[片合]]
-
 ## wrinting is thinking
 
 把聽到的寫下來，用自己的語言表達，而不只是 COPY 作者的話。
