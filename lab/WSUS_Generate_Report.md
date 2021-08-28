@@ -1,7 +1,6 @@
+# WSUS generate report
+
 ```ps1
-
-
-Code:
 ####################################################################
 #  #
 # Author: Christopher Cardenas  #
